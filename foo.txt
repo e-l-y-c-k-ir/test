@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 Hello World
+=======
+Hello you people
+>>>>>>> quickfix
 Glad you could join us.
 Welcome back.
 Hello You
