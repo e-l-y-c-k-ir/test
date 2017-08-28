@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-Hello World
-=======
-Hello you people
->>>>>>> quickfix
+Hello all GitHub users
 Glad you could join us.
 Welcome back.
 Hello You
